@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "simple real time chat, just because",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dern0s/realtime_chat.git"
+  },
+  "keywords": [
+    "real",
+    "time",
+    "nodejs"
+  ],
+  "author": "dern0s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dern0s/realtime_chat/issues"
+  },
+  "homepage": "https://github.com/dern0s/realtime_chat#readme",
+  "dependencies": {
+    "socket.io": "^3.0.4"
+  }
+}
